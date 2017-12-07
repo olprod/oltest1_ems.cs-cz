@@ -19,5 +19,5 @@
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": true
 }
